@@ -1,0 +1,8 @@
+Project creation-(Real Estate price prediction)
+
+1. We imported the csv raw data file and cleaned and
+   did machine learning algorithm in jupyter notebook
+2. We exported the artifacts to pickle file and columns
+   data to json file in the project folder
+3. We write a python flask server which responds to http
+   request from ui
